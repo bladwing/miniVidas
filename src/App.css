@@ -1,15 +1,14 @@
 .App {
   text-align: center;
-
-  
 }
 .mainWindow {
-  width: 60%;
+  width: 55%;
   border: 1px solid gray;
   margin: 0 auto;
   display: flex;
   flex-wrap: nowrap;
   min-height: 400px;
+  min-width: 300px;
   
 }
 ul {
@@ -36,6 +35,7 @@ a:focus {
 
 .block2, .block1 {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .grey {
