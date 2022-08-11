@@ -8,6 +8,9 @@ import UtilityMenu from "./pages/UtilityMenu";
 import ConfigurationMenu from "./pages/ConfigurationMenu";
 import MiscFunction from "./pages/MiscFunction";
 import TestMenu from "./pages/TestMenu";
+import Lisuseroptions from "./pages/Lisuseroptions";
+import MiscellaneousItems from "./pages/MiscellaneousItems";
+import SoundMenu from "./pages/SoundMenu";
 
 function App() {
   return (
@@ -24,7 +27,10 @@ function App() {
             <Route path="/resultsmenu" element={<ResultsMenu />} />
             <Route path="/utilitymenu" element={<UtilityMenu />} />
             <Route path="/configurationmenu" element={<ConfigurationMenu />} />
+            <Route path="/lisuseroptions" element={<Lisuseroptions />} />
+            <Route path="/miscellaneousItems" element={<MiscellaneousItems />} />
             <Route path="/miscfunction" element={<MiscFunction />} />
+            <Route path="/soundmenu" element={<SoundMenu />} />
             <Route path="/testmenu" element={<TestMenu />} />
             <Route path="/soundmenu" element={<TestMenu />} />
             <Route path="/miscitems" element={<TestMenu />} />
