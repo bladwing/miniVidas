@@ -4,6 +4,6 @@
 **Devic name: Mini Vidas.**
 **Country: french.**
 
-### I create small project like a simulator of device interface,
+**I create small project like a simulator of device interface**
 
-### In [project](https://minividas.netlify.app/) you can find technical specification and menu flow.
+**In [project](https://minividas.netlify.app/) you can find technical specification and menu flow.**
