@@ -1,11 +1,19 @@
 .App {
   text-align: center;
 }
+.mapOfNav  {
+  font-weight: 700;
+}
+.mapOfNav:hover {
+  color: grey;
+}
 .mainWindow {
   width: 55%;
   border: 1px solid gray;
-  margin: 0 auto;
+  margin: 20px auto;
   display: flex;
+  border-radius: 20px;
+  background-color:azure;
   flex-wrap: nowrap;
   min-height: 400px;
   min-width: 300px;
@@ -24,9 +32,10 @@ li button {
 a {
   text-decoration: none;
   color: black;
+  font-weight: 700;
 }
 a:focus {
-  color: red;
+  color: grey;
 }
 
 .Temperature {
