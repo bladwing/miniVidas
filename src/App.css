@@ -57,3 +57,15 @@ a:focus {
 .grey {
   color: grey;
 }
+
+
+.pageNotFound {
+  text-align: center;
+  margin: 20% auto;
+}
+.pageNotFound a {
+  color: #27B051;
+}
+.pageNotFound a:hover {
+  color: red;
+}
