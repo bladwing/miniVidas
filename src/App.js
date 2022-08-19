@@ -18,7 +18,8 @@ import TechSpec from "./pages/technicalSpec/TechSpec";
 function App() {
   return (
     <div className="App">
-      <h1>miniVidas</h1>
+      <img src="https://www.biomerieux-diagnostics.com/sites/clinic/files/biomerieux-logo-diagnostics.png" alt="logo" className="logo"/>
+      <h1>Mini Vidas</h1>
       <Router>
         <Menu />{" "}
         <div className="mainWindow">
@@ -45,6 +46,7 @@ function App() {
             <Route path="/soundmenu" element={<TestMenu />} />
             <Route path="/miscitems" element={<TestMenu />} />
           </Routes>
+     
         </div>
         <a href="menuStructure.png" target="_blank" className="mapOfNav">
           Map of Navigation

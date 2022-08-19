@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.logo {
+  width: 12%;
+}
+
+h1 {
+  color: #27B051;
+}
 .mapOfNav  {
   font-weight: 700;
 }
@@ -16,7 +23,7 @@
   background-color:azure;
   flex-wrap: nowrap;
   min-height: 400px;
-  min-width: 300px;
+  min-width: 350px;
   
 }
 ul {
