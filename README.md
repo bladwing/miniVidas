@@ -1,6 +1,6 @@
 # Medical Device Overview and Menu flow.
 
-**Manufactured by [bioMérieux](https://www.biomerieux.com/)**
+**Manufactured by [bioMérieux](https://www.biomerieux.com/)** <br/>
 **Device name: Mini Vidas.**
 **Country: french.**
 
