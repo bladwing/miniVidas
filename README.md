@@ -1,7 +1,7 @@
 # Medical Device Overview and Menu flow.
 
 **Manufactured by [bioMérieux](https://www.biomerieux.com/)** <br/>
-**Device name: Mini Vidas.**
+**Device name: Mini Vidas.** <br/>
 **Country: french.**
 
 **I create small project like a simulator of device interface**
